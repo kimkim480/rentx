@@ -8,7 +8,6 @@
 
 **RF**
 * Deve ser possível cadastrar um novo carro.
-* Deve ser possível listar todas as categorias
 
 **RN**
 * O usuário responsável pelo cadastro deve ser um usuário administrador.
