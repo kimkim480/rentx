@@ -7,33 +7,33 @@
 ## Cadastro de carro
 
 **RF**
-* Deve ser possível cadastrar um novo carro.
+- [x] Deve ser possível cadastrar um novo carro.
 
 **RN**
-* O usuário responsável pelo cadastro deve ser um usuário administrador.
-* Não deve ser possível cadastrar um carro com uma placa já cadastrada.
-* O carro deve ser cadastrado, por padrão, com disponibilidade.
+- [x] O usuário responsável pelo cadastro deve ser um usuário administrador.
+- [x] Não deve ser possível cadastrar um carro com uma placa já cadastrada.
+- [x] O carro deve ser cadastrado, por padrão, com disponibilidade.
 
 ## Listagem de Carros
 
 **RF**
-* Deve ser possível listar todos os carros disponíveis.
-* Não deve ser possível listar todos os carros disponíveis pelo nome da categoria.
-* Deve ser possível listar todos os carros disponíveis pelo nome do fabricante.
-* Deve ser possível listar todos os carros disponíveis pelo modelo do carro.
+- [x] Deve ser possível listar todos os carros disponíveis.
+- [x] Deve ser possível listar todos os carros disponíveis pelo nome da categoria.
+- [x] Deve ser possível listar todos os carros disponíveis pelo nome do fabricante.
+- [x] Deve ser possível listar todos os carros disponíveis pelo modelo do carro.
 
 **RN**
-* O usuário não precisa estar logado.
+- [x] O usuário não precisa estar logado.
 
 ## Cadastro de Especificação no carro
 
 **RF**
-* Deve ser possível cadastrar uma especificação para um carro.
+- [x] Deve ser possível cadastrar uma especificação para um carro.
 
 **RN**
-* O usuário responsável pelo cadastro deve ser um usuário administrador.
-* Não deve ser possível cadastrar uma especificação para um carro não cadastrado.
-* Não deve ser possível cadastrar uma especificação já existente para o mesmo carro.
+- [x] O usuário responsável pelo cadastro deve ser um usuário administrador.
+- [x] Não deve ser possível cadastrar uma especificação para um carro não cadastrado.
+- [x] Não deve ser possível cadastrar uma especificação já existente para o mesmo carro.
 
 ## Cadastro de imagens do carro
 
