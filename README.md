@@ -58,16 +58,24 @@
 - [x] Não deve ser possível cadastrar um novo aluguel para um carro alugado.
 - [x] Não deve ser possível cadastrar um novo aluguel para um usuário com um aluguel em aberto.
 
-## Devolução de carro
+## Listagem de Alugueis para usuário
 
-**RF** 
-- [ ] Deve ser possível realizar a devolução de um carro.
+**RF**
+- [ ] Deve ser possível realizar a busca de todos os alugueis para o usuário.
 
 **RN**
 - [ ] O usuário deve estar logado na aplicação.
-- [ ] Se o carro for devolvido com menos de 24 horas, deverá ser cobrado a diária completa.
-- [ ] Ao realizar a devolução, o carro deverá ser liberado para outro aluguel.
-- [ ] Ao realizar a devolução, o usuário deverá ser liberado para outro aluguel.
-- [ ] Ao realizar a devolução,  deverá ser calculado o total do aluguel.
-- [ ] Caso o horário de devolução seja superior ao horário previsto de entrega, deverá ser cobrado multa proporcional aos dias de atrsaso.
-- [ ] Caso haja multa, deverá ser somado ao total do aluguel.
+
+## Devolução de carro
+
+**RF** 
+- [x] Deve ser possível realizar a devolução de um carro.
+
+**RN**
+- [x] O usuário deve estar logado na aplicação.
+- [x] Se o carro for devolvido com menos de 24 horas, deverá ser cobrado a diária completa.
+- [x] Ao realizar a devolução, o carro deverá ser liberado para outro aluguel.
+- [x] Ao realizar a devolução, o usuário deverá ser liberado para outro aluguel.
+- [x] Ao realizar a devolução,  deverá ser calculado o total do aluguel.
+- [x] Caso o horário de devolução seja superior ao horário previsto de entrega, deverá ser cobrado multa proporcional aos dias de atrsaso.
+- [x] Caso haja multa, deverá ser somado ao total do aluguel.
