@@ -83,10 +83,10 @@
 ## Recuperar senha
 
 **RF**
-- [ ] Deve sere possível o usuário recuperar a senha informando o email.
-- [ ] O usuário deve receber um email com o passo a passo para a recuperação da senha.
-- [ ] O usuário deve conseguir inserior uma nova senha.
+- [x] Deve sere possível o usuário recuperar a senha informando o email.
+- [x] O usuário deve receber um email com o passo a passo para a recuperação da senha.
+- [x] O usuário deve conseguir inserior uma nova senha.
 
 **RN**
-- [ ] O usuário precisa informar uma nova senha.
-- [ ] O link enviado para a recuperação deve expirar em 3 horas.
+- [x] O usuário precisa informar uma nova senha.
+- [x] O link enviado para a recuperação deve expirar em 3 horas.
