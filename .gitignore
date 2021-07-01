@@ -4,3 +4,4 @@ tmp
 .env
 dist
 coverage
+ormconfig.json
