@@ -90,5 +90,3 @@
 **RN**
 - [x] O usuário precisa informar uma nova senha.
 - [x] O link enviado para a recuperação deve expirar em 3 horas.
-
-## Listagem de Alugueis para administrador
